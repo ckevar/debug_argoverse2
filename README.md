@@ -9,7 +9,7 @@ The bounding boxes are filtered by the field of view, which has been manually es
 
 ---
 
-It has been tested __only on front camera__ and on the first chunk of the Argoverse V2 dataset (`train-000`), the files are large, this one is circa ~`56GB`.
+It has been tested __only on front camera__ and on the first chunk of the Argoverse V2 dataset (`train-000`), the files are large, this one is circa ~`56GB`. and you can easly find it in the [Argoverse V2 server](https://www.argoverse.org/av2.html#download-link) and download the link referring to `Train Part 1`. Check the code and modify accordingly to set your dataset directory.
 
 ## Projecting 2D Bounding Boxes
 
